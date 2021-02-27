@@ -53,7 +53,7 @@ div .p1{
 }
 div .p2{
     font-size: 18px;
-    font-family: font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     opacity: 60%;
 }
 form.form input[type=text] {
@@ -110,7 +110,7 @@ form.form button:hover {
   border: 2px solid #cccccc;
   margin: 15px;
   padding: 0px 10px;
-  font-size: 17pxpx;
+  font-size: 17px;
   border-left:none;
     border-radius: 25px;
     font-weight: bold;
@@ -406,7 +406,7 @@ div.container-right{
 }
 .activites p{
  font-size:20px;
- font-family: font-family: 'Poppins', sans-serif;
+ font-family: 'Poppins', sans-serif;
 }
 
 .item1 
